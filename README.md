@@ -72,7 +72,7 @@ Open in your browser
 
 http://localhost:8501
 
-Screenshots
+
 
 (Add your Streamlit interface screenshots here — e.g., store & SKU selection, forecast plots, etc.)
 
@@ -82,7 +82,8 @@ Make sure xgb_tuned.pkl, scaler.pkl, and features.txt are available in the model
 
 If loading artifacts causes an error, retrain or re-save the files using your Week 3 notebook.
 
-Context
+Context<img width="1379" height="663" alt="Screenshot 2025-10-28 at 18 47 15" src="https://github.com/user-attachments/assets/89180c09-0011-46b2-92dc-abc368df0af9" />
+
 
 Developed for Sprint 4 of the Advanced Data Science Capstone.
 Focus: Forecast deployment, business usability, and model operationalization.
